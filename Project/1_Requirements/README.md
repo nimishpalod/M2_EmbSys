@@ -14,12 +14,12 @@ Overheat Detector is a device which detects the temprature of system and wheneve
 |`HLR1`| LLR1	|Temperature Sensor shall detect the temperature and send input to the system|
 |	 | LLR2	|The input shall be compared to the threshold temperature|
 |	 | LLR3	|The temperature shall be displayed on LCD Screen|
-|`HLR2`| LLR1	|Whenever temperature reaches threshold value, it should display warning message|
-|	   |LLR2	|Whenever temperature goes above threshold value, it should display message|
-|	   |LLR3	|It shall display temperature at every moment|
-|`HLR3` |LLR1	|Buzzer shall work whenever the temperature passes threshold point|
-|	   |LLR2	|Buzzer shall stop when the temperature again gets normal|
-|`HLR4` |	LLR1|	The system should reset when the temperature get normal|
-|	    |LLR2	|The system shall reset automatically|
+|`HLR2`| LLR4	|Whenever temperature reaches threshold value, it should display warning message|
+|	   |LLR5	|Whenever temperature goes above threshold value, it should display message|
+|	   |LLR6	|It shall display temperature at every moment|
+|`HLR3` |LLR7	|Buzzer shall work whenever the temperature passes threshold point|
+|	   |LLR8	|Buzzer shall stop when the temperature again gets normal|
+|`HLR4` |	LLR9|	The system should reset when the temperature get normal|
+|	    |LLR10	|The system shall reset automatically|
 
 
