@@ -4,7 +4,7 @@
 ![FlowChart](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/FlowChartSolar.drawio.png)
 
 ## Block Diagram
-![BlockDiagram]()
+![BlockDiagram](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/BlockDiagramSolar.drawio.png)
 
 ## Components Used
 * **ATmega328p microcontroller** 
@@ -27,7 +27,7 @@
     * For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent. So it is connected to the servo motor which turns its face in the direction of sun. 
 
 ## Circuit Diagram
-![CircuitDiagram]()
+![CircuitDiagram](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/SmartSolarCircuitDiagram.png)
 
 * ATmega328p contains inbuilt Analog to Digital Converter(ADC) at the ports 23-28(PC1-PC5). In this project, the 2 LDRs are connected at port 27 and 28. The LDRs sends analog input to the microcontroller, which will be converted to binary using ADC so to make it understandable for microcontroller. The further operations are done with this input according to the program given to microcontroller.
 * Servo Motor is connected to pin 17 which provides PWM.
