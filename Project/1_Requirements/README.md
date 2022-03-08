@@ -1,25 +1,27 @@
 # Description
-Overheat Detector is a device which detects the temprature of system and whenever it exceeds the threshold level, it gives indications through buzzers and displays the condition on LCD Screen. It is made using the AVR Microcontroller which is programmed to take analog input from the temprature sensor (thermistor) and compare it with the threshold value and accordingly produce the output. It has huge applications in industrial machinearies and electronic products. 
+Smart Solar Panel is a device used to charge the solar panel more efficiently, Allows us to use the renewable resource i.e. Solar Energy to use with more effecient way.
+
 # Requirements
 ## High Level Requirements
-|ID| Requirements|
-|-------|-------|
-|HLR1	|System shall detect the temperature|
-|HLR2	|The output shall be displayed on LCD Screen|
-|HLR3	|Buzzer should produce noise when output is above threshold value|
-|HLR4	|System shall reset when temperature again gets normal|
+| ID | Description |
+|------|-----------|
+| HLR_01 | The system shall detect the light intensity |
+| HLR_02 | The system shall continuously move in the direction of sun |
+| HLR_03 | The system shall absorb the solar energy |
+| HLR_04 | The solar panel shall charge the batteries with sunlight |
+
 ## Low Level Requirements
-|High Level ID|	Low Level ID|	Requirements|
-|-----------|---------------|--------|
-|`HLR1`| LLR1	|Temperature Sensor shall detect the temperature and send input to the system|
-|	 | LLR2	|The input shall be compared to the threshold temperature|
-|	 | LLR3	|The temperature shall be displayed on LCD Screen|
-|`HLR2`| LLR1	|Whenever temperature reaches threshold value, it should display warning message|
-|	   |LLR2	|Whenever temperature goes above threshold value, it should display message|
-|	   |LLR3	|It shall display temperature at every moment|
-|`HLR3` |LLR1	|Buzzer shall work whenever the temperature passes threshold point|
-|	   |LLR2	|Buzzer shall stop when the temperature again gets normal|
-|`HLR4` |	LLR1|	The system should reset when the temperature get normal|
-|	    |LLR2	|The system shall reset automatically|
+| HLR ID | ID | Description |
+|----|--------|-------------|
+| `HLR_01` | LLR_01 | Their shall be more than one Light Sensors (LDRs) |
+|        | LLR_02 | The resistance of LDRs should get changed with the intensity of light |
+|        | LLR_03 | The resistance value shall be given to the microcontroller in binary format |
+| `HLR_02` | LLR_04 | The system shall compare the intensity on the basis of different LDR values |
+|        | LLR_05 | The servo motor shall move in the direction where the intensity is more |
+|        | LLR_06 | The servo motor shall be provided with a PWM signal |
+| `HLR_03` | LLR_07 | Solar panel shall absorb solar light |
+|        | LLR_08 | The energy from sun shall be converted to electrical energy |
+| `HLR_04` | LLR_09 | The electrical energy shall be used to store the energy for the battery |
+|        | LLR_10 | The electrical energy shall be used directly for different purposes |
 
-
+# SWOT Analysis
