@@ -1,5 +1,5 @@
 # Description
-Smart Solar Panel is a device used to charge the solar panel more efficiently, Allows us to use the renewable resource i.e. Solar Energy to use with more effecient way.
+In today's world it has become a necessity to use the renewable resources for making energy since the applications and users have increased, the need for electricity has grown by times. The best source of renewable energy is Solar Energy. Now a days solar panels are becoming more popular. Solar panel absorbs the energy from the Sun, converts it into electrical energy and stores the energy in a battery. The position of the Sun with respect to the solar panel is not fixed due to the rotation of the Earth. For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent. So this project aims to collect the maximum energy from the sun. 
 
 # Requirements
 ## High Level Requirements
@@ -25,3 +25,10 @@ Smart Solar Panel is a device used to charge the solar panel more efficiently, A
 |        | LLR_10 | The electrical energy shall be used directly for different purposes |
 
 # SWOT Analysis
+### Strengths
+
+### Weaknesses
+
+### Opportunities
+
+### Threats
