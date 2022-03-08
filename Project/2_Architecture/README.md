@@ -1,8 +1,5 @@
 # Design
 
-## Flow Chart
-![FlowChart](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/FlowChartSolar.drawio.png)
-
 ## Block Diagram
 ![BlockDiagram](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/BlockDiagramSolar.drawio.png)
 
@@ -25,6 +22,9 @@
     * Solar panel consists of photovoltaic cells arranged in an order. Photovoltaic cell is nothing but a solar cell. Solar cell is made up of semiconductor material silicon.
     * When a light ray from Sun is incident on the solar cell, some amount of energy is absorbed by this material. The absorbed energy is enough for the electrons to jump from one orbit to other inside the atom. Cells have one or more electric field that directs the electrons which creates current. By placing metal contact energy can be obtained from these cells.
     * For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent. So it is connected to the servo motor which turns its face in the direction of sun. 
+
+## Flow Chart
+![FlowChart](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/FlowChartSolar.drawio.png)
 
 ## Circuit Diagram
 ![CircuitDiagram](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/2_Architecture/SmartSolarCircuitDiagram.png)
