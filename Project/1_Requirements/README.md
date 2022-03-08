@@ -26,9 +26,33 @@ In today's world it has become a necessity to use the renewable resources for ma
 
 # SWOT Analysis
 ### Strengths
-
+* The solar energy can be reused as it is non-renewable resource.
+* This also saves money as there is no need to pay for energy used.
+* Helps in maximizing the solar energy absorption by continuously tracking the sun.
 ### Weaknesses
-
+* Very less efficient in rainy season.
+* Setup is expensive.
+* It requires high maintainance with time to time change.
 ### Opportunities
-
+* It reduces the number of solar panel as a single one generates more energy.
+* In offices and buildings where huge electricity is required.
+* This system reduces the cost of setup.
 ### Threats
+* Difficulty in replacement of existing system.
+* High maintainance.
+
+# 5W's and 1H
+### WHO
+* People having businesses
+* Government of Country
+### WHAT
+* Automated Solar Panel with rotation according to the sun's direction
+### WHEN
+* Whenever more efficiency is required with small setup of solar panel
+### WHERE
+* The place where need is more but space is less
+### WHY
+* To reduce the solar panel cost
+* To increase the efficiency of generating energy
+### HOW
+* Just by Setting up this system at the rooftop of the building
