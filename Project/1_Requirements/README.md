@@ -56,3 +56,8 @@ In today's world it has become a necessity to use the renewable resources for ma
 * To increase the efficiency of generating energy
 ### HOW
 * Just by Setting up this system at the rooftop of the building
+
+# Applications
+* These panels can be used to power the traffic streetlights
+* These can be used in home to power the appliances using solar power
+* These can be used in industries as more energy can be saved by rotating the panel
