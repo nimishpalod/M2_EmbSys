@@ -13,7 +13,5 @@
 |----|-------------|-------|--------|--------|
 | L_01 | Servo Motor should turn in the direction of LDR1 | Value of LDR1>LDR2 | Turned in the direction of LDR1 | SUCCESS |
 | L_02 | Servo Motor should turn in the direction of LDR2 | Value of LDR2>LDR1 | Turned in the direction of LDR2 | SUCCESS |
-| L_03 | When sun is heading towards East | Value of LDR1 = 588Lux
-Value of LDR2 = 3Lux | Servo Motor should turn in the direction of LDR1 | SUCCESS |
-| L_04 | When sun is heading towards West | Value of LDR1 = 5Lux
-Value of LDR2 = 576Lux | Servo Motor should turn in the direction of LDR2 | SUCCESS |
+| L_03 | When sun is heading towards East | Value of LDR1 = 588Lux, Value of LDR2 = 3Lux | Servo Motor should turn in the direction of LDR1 | SUCCESS |
+| L_04 | When sun is heading towards West | Value of LDR1 = 5Lux, Value of LDR2 = 576Lux | Servo Motor should turn in the direction of LDR2 | SUCCESS |
