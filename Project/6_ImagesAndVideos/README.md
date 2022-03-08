@@ -5,3 +5,5 @@
 ![SolarOutput2](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/6_ImagesAndVideos/SolarOutput2.png)
 #### When the value of Light Intensity is more for LDR2
 ![SolarOutput3](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/6_ImagesAndVideos/SolarOutput3.png)
+#### Video of Output
+![OutputVideo](https://github.com/nimishpalod/M2_EmbSys/blob/nimish/Project/6_ImagesAndVideos/SimulationOutput.mp4)
